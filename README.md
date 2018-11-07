@@ -14,5 +14,5 @@ apt install -y curl
 
 # Installation
 ```bash
-bash -c "$(curl -fsSL https://git.io/oh-my-termux)"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/sqlwwx/oh-my-termux/master/install.sh)"
 ```
