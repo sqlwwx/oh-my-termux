@@ -14,5 +14,6 @@ pkg install -y libcurl curl
 
 # Installation
 ```bash
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/sqlwwx/oh-my-termux/master/install.sh)"
+sh -c "$(curl -fsSL https://cdn.jsdelivr.net/gh/sqlwwx/oh-my-termux/install.sh)"
+curl -L https://bit.ly/2E78SlH | bash
 ```
